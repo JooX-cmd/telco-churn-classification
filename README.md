@@ -110,16 +110,7 @@ cd telco-churn-classification
 jupyter notebook notebooks/telco_churn_classification.ipynb
 ```
 
-## 📈 Results
 
-| Model | Accuracy | Precision | Recall | F1-Score |
-|-------|----------|-----------|--------|----------|
-| Logistic Regression | - | - | - | - |
-| Decision Tree | - | - | - | - |
-| Random Forest | - | - | - | - |
-| SVM | - | - | - | - |
-
-*Results will vary based on your specific dataset*
 
 ## 🔑 Key Insights
 
